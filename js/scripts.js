@@ -12,6 +12,7 @@ values(
     "musics/Time of Dying.mp3",
     "musics/Bruno Mars - It Will Rain.mp3",
     "musics/Janice - Hearts Will Bleed.mp3",
+    "musics/Pareja del Anio .mp3",
   ],
 
   [
@@ -22,5 +23,6 @@ values(
     "images/time-of-dyng.PNG",
     "images/it will.PNG",
     "images/hearts.PNG",
+    "images/pareja-del-anio.PNG",
   ]
 );
